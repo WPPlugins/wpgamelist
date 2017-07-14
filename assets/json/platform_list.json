@@ -1,0 +1,122 @@
+{"ID": 1,"matchingid": 134,"platformname": "Acorn Electron"}
+{"ID": 2,"matchingid": 133,"platformname": "Philips Videopac G7000"}
+{"ID": 3,"matchingid": 132,"platformname": "Amazon Fire TV"}
+{"ID": 4,"matchingid": 131,"platformname": "Nintendo PlayStation"}
+{"ID": 5,"matchingid": 130,"platformname": "Nintendo Switch"}
+{"ID": 6,"matchingid": 129,"platformname": "Texas Instruments TI-99"}
+{"ID": 7,"matchingid": 128,"platformname": "PC Engine SuperGrafx"}
+{"ID": 8,"matchingid": 127,"platformname": "Fairchild Channel F"}
+{"ID": 9,"matchingid": 126,"platformname": "TRS-80"}
+{"ID": 10,"matchingid": 125,"platformname": "PC-8801"}
+{"ID": 11,"matchingid": 124,"platformname": "SwanCrystal"}
+{"ID": 12,"matchingid": 123,"platformname": "WonderSwan Color"}
+{"ID": 13,"matchingid": 122,"platformname": "Nuon"}
+{"ID": 14,"matchingid": 121,"platformname": "Sharp X68000"}
+{"ID": 15,"matchingid": 120,"platformname": "Neo Geo Pocket Color"}
+{"ID": 16,"matchingid": 119,"platformname": "Neo Geo Pocket"}
+{"ID": 17,"matchingid": 118,"platformname": "FM Towns"}
+{"ID": 18,"matchingid": 117,"platformname": "Philips CD-i"}
+{"ID": 19,"matchingid": 116,"platformname": "Acorn Archimedes"}
+{"ID": 20,"matchingid": 115,"platformname": "Apple IIGS"}
+{"ID": 21,"matchingid": 114,"platformname": "Amiga CD32"}
+{"ID": 22,"matchingid": 113,"platformname": "OnLive Game System"}
+{"ID": 23,"matchingid": 112,"platformname": "Microcomputer"}
+{"ID": 24,"matchingid": 111,"platformname": "Imlac PDS-1"}
+{"ID": 25,"matchingid": 110,"platformname": "PLATO"}
+{"ID": 26,"matchingid": 109,"platformname": "CDC Cyber 70"}
+{"ID": 27,"matchingid": 108,"platformname": "PDP-11"}
+{"ID": 28,"matchingid": 107,"platformname": "Call-A-Computer time-shared mainframe computer system"}
+{"ID": 29,"matchingid": 106,"platformname": "SDS Sigma 7"}
+{"ID": 30,"matchingid": 105,"platformname": "HP 3000"}
+{"ID": 31,"matchingid": 104,"platformname": "HP 2100"}
+{"ID": 32,"matchingid": 103,"platformname": "PDP-7"}
+{"ID": 33,"matchingid": 102,"platformname": "EDSAC"}
+{"ID": 34,"matchingid": 101,"platformname": "Ferranti Nimrod Computer"}
+{"ID": 35,"matchingid": 100,"platformname": "Analogue electronics"}
+{"ID": 36,"matchingid": 99,"platformname": "Family Computer"}
+{"ID": 37,"matchingid": 98,"platformname": "DEC GT40"}
+{"ID": 38,"matchingid": 97,"platformname": "PDP-8"}
+{"ID": 39,"matchingid": 96,"platformname": "PDP-10"}
+{"ID": 40,"matchingid": 95,"platformname": "PDP-1"}
+{"ID": 41,"matchingid": 94,"platformname": "Commodore Plus/4"}
+{"ID": 42,"matchingid": 93,"platformname": "Commodore 16"}
+{"ID": 43,"matchingid": 92,"platformname": "SteamOS"}
+{"ID": 44,"matchingid": 91,"platformname": "Bally Astrocade"}
+{"ID": 45,"matchingid": 90,"platformname": "Commodore PET"}
+{"ID": 46,"matchingid": 89,"platformname": "Microvision"}
+{"ID": 47,"matchingid": 88,"platformname": "Odyssey"}
+{"ID": 48,"matchingid": 87,"platformname": "Virtual Boy"}
+{"ID": 49,"matchingid": 86,"platformname": "TurboGrafx-16/PC Engine"}
+{"ID": 50,"matchingid": 85,"platformname": "Donner Model 30"}
+{"ID": 51,"matchingid": 84,"platformname": "SG-1000"}
+{"ID": 52,"matchingid": 82,"platformname": "Web browser"}
+{"ID": 53,"matchingid": 80,"platformname": "Neo Geo AES"}
+{"ID": 54,"matchingid": 79,"platformname": "Neo Geo MVS"}
+{"ID": 55,"matchingid": 78,"platformname": "Sega CD"}
+{"ID": 56,"matchingid": 77,"platformname": "Sharp X1"}
+{"ID": 57,"matchingid": 75,"platformname": "Apple II"}
+{"ID": 58,"matchingid": 74,"platformname": "Windows Phone"}
+{"ID": 59,"matchingid": 73,"platformname": "BlackBerry OS"}
+{"ID": 60,"matchingid": 72,"platformname": "Ouya"}
+{"ID": 61,"matchingid": 71,"platformname": "Commodore VIC-20"}
+{"ID": 62,"matchingid": 70,"platformname": "Vectrex"}
+{"ID": 63,"matchingid": 69,"platformname": "BBC Microcomputer System"}
+{"ID": 64,"matchingid": 68,"platformname": "ColecoVision"}
+{"ID": 65,"matchingid": 67,"platformname": "Intellivision"}
+{"ID": 66,"matchingid": 66,"platformname": "Atari 5200"}
+{"ID": 67,"matchingid": 65,"platformname": "Atari 8-bit"}
+{"ID": 68,"matchingid": 64,"platformname": "Sega Master System"}
+{"ID": 69,"matchingid": 63,"platformname": "Atari ST/STE"}
+{"ID": 70,"matchingid": 62,"platformname": "Atari Jaguar"}
+{"ID": 71,"matchingid": 61,"platformname": "Atari Lynx"}
+{"ID": 72,"matchingid": 60,"platformname": "Atari 7800"}
+{"ID": 73,"matchingid": 59,"platformname": "Atari 2600"}
+{"ID": 74,"matchingid": 58,"platformname": "Super Famicom"}
+{"ID": 75,"matchingid": 57,"platformname": "WonderSwan"}
+{"ID": 76,"matchingid": 56,"platformname": "WiiWare"}
+{"ID": 77,"matchingid": 55,"platformname": "Mobile"}
+{"ID": 78,"matchingid": 53,"platformname": "MSX2"}
+{"ID": 79,"matchingid": 52,"platformname": "Arcade"}
+{"ID": 80,"matchingid": 51,"platformname": "Family Computer Disk System"}
+{"ID": 81,"matchingid": 50,"platformname": "3DO Interactive Multiplayer"}
+{"ID": 82,"matchingid": 49,"platformname": "Xbox One"}
+{"ID": 83,"matchingid": 48,"platformname": "PlayStation 4"}
+{"ID": 84,"matchingid": 47,"platformname": "Virtual Console (Nintendo)"}
+{"ID": 85,"matchingid": 46,"platformname": "PlayStation Vita"}
+{"ID": 86,"matchingid": 45,"platformname": "PlayStation Network"}
+{"ID": 87,"matchingid": 44,"platformname": "Tapwave Zodiac"}
+{"ID": 88,"matchingid": 42,"platformname": "N-Gage"}
+{"ID": 89,"matchingid": 41,"platformname": "Wii U"}
+{"ID": 90,"matchingid": 39,"platformname": "iOS"}
+{"ID": 91,"matchingid": 38,"platformname": "PlayStation Portable"}
+{"ID": 92,"matchingid": 37,"platformname": "Nintendo 3DS"}
+{"ID": 93,"matchingid": 36,"platformname": "Xbox Live Arcade"}
+{"ID": 94,"matchingid": 35,"platformname": "Sega Game Gear"}
+{"ID": 95,"matchingid": 34,"platformname": "Android"}
+{"ID": 96,"matchingid": 33,"platformname": "Game Boy"}
+{"ID": 97,"matchingid": 32,"platformname": "Sega Saturn"}
+{"ID": 98,"matchingid": 30,"platformname": "Sega 32X"}
+{"ID": 99,"matchingid": 29,"platformname": "Sega Mega Drive/Genesis"}
+{"ID": 100,"matchingid": 27,"platformname": "MSX"}
+{"ID": 101,"matchingid": 26,"platformname": "ZX Spectrum"}
+{"ID": 102,"matchingid": 25,"platformname": "Amstrad CPC"}
+{"ID": 103,"matchingid": 24,"platformname": "Game Boy Advance"}
+{"ID": 104,"matchingid": 23,"platformname": "Dreamcast"}
+{"ID": 105,"matchingid": 22,"platformname": "Game Boy Color"}
+{"ID": 106,"matchingid": 21,"platformname": "Nintendo GameCube"}
+{"ID": 107,"matchingid": 20,"platformname": "Nintendo DS"}
+{"ID": 108,"matchingid": 19,"platformname": "Super Nintendo Entertainment System (SNES)"}
+{"ID": 109,"matchingid": 18,"platformname": "Nintendo Entertainment System (NES)"}
+{"ID": 110,"matchingid": 16,"platformname": "Amiga"}
+{"ID": 111,"matchingid": 15,"platformname": "Commodore C64/128"}
+{"ID": 112,"matchingid": 14,"platformname": "Mac"}
+{"ID": 113,"matchingid": 13,"platformname": "PC DOS"}
+{"ID": 114,"matchingid": 12,"platformname": "Xbox 360"}
+{"ID": 115,"matchingid": 11,"platformname": "Xbox"}
+{"ID": 116,"matchingid": 9,"platformname": "PlayStation 3"}
+{"ID": 117,"matchingid": 8,"platformname": "PlayStation 2"}
+{"ID": 118,"matchingid": 7,"platformname": "PlayStation"}
+{"ID": 119,"matchingid": 6,"platformname": "PC (Microsoft Windows)"}
+{"ID": 120,"matchingid": 5,"platformname": "Wii"}
+{"ID": 121,"matchingid": 4,"platformname": "Nintendo 64"}
+{"ID": 122,"matchingid": 3,"platformname": "Linux"}

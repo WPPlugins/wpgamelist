@@ -1,0 +1,4 @@
+[21-Sep-2016 18:17:36 America/Denver] PHP Fatal error:  Class 'PHPExcel_Writer_Excel5_BIFFwriter' not found in /home/jakereva/public_html/wp-content/plugins/wpbooklist/PHPExcel/Classes/PHPExcel/Writer/Excel5/Workbook.php on line 72
+[21-Sep-2016 18:32:44 America/Denver] PHP Fatal error:  Class 'PHPExcel_Writer_Excel5_BIFFwriter' not found in /home/jakereva/public_html/wp-content/plugins/wpbooklist/PHPExcel/Classes/PHPExcel/Writer/Excel5/Worksheet.php on line 72
+[18-Dec-2016 04:46:48 America/Denver] PHP Fatal error:  Class 'PHPExcel_Writer_Excel5_BIFFwriter' not found in /home/jakereva/public_html/wp-content/plugins/wpgamelist/PHPExcel/Classes/PHPExcel/Writer/Excel5/Workbook.php on line 72
+[18-Dec-2016 04:47:13 America/Denver] PHP Fatal error:  Class 'PHPExcel_Writer_Excel5_BIFFwriter' not found in /home/jakereva/public_html/wp-content/plugins/wpgamelist/PHPExcel/Classes/PHPExcel/Writer/Excel5/Worksheet.php on line 72

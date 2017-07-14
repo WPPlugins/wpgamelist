@@ -1,0 +1,8 @@
+[21-Sep-2016 14:41:56 America/Denver] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/jakereva/public_html/wp-content/plugins/wpbooklist/PHPExcel/Classes/PHPExcel/Writer/PDF/DomPDF.php on line 30
+[21-Sep-2016 17:54:54 America/Denver] PHP Fatal error:  Class 'PHPExcel_Writer_HTML' not found in /home/jakereva/public_html/wp-content/plugins/wpbooklist/PHPExcel/Classes/PHPExcel/Writer/PDF/Core.php on line 37
+[21-Sep-2016 18:55:26 America/Denver] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/jakereva/public_html/wp-content/plugins/wpbooklist/PHPExcel/Classes/PHPExcel/Writer/PDF/mPDF.php on line 30
+[21-Sep-2016 18:59:20 America/Denver] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/jakereva/public_html/wp-content/plugins/wpbooklist/PHPExcel/Classes/PHPExcel/Writer/PDF/tcPDF.php on line 30
+[18-Dec-2016 04:46:42 America/Denver] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/jakereva/public_html/wp-content/plugins/wpgamelist/PHPExcel/Classes/PHPExcel/Writer/PDF/DomPDF.php on line 30
+[18-Dec-2016 04:48:15 America/Denver] PHP Fatal error:  Class 'PHPExcel_Writer_HTML' not found in /home/jakereva/public_html/wp-content/plugins/wpgamelist/PHPExcel/Classes/PHPExcel/Writer/PDF/Core.php on line 37
+[18-Dec-2016 04:49:28 America/Denver] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/jakereva/public_html/wp-content/plugins/wpgamelist/PHPExcel/Classes/PHPExcel/Writer/PDF/tcPDF.php on line 30
+[18-Dec-2016 04:49:51 America/Denver] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/jakereva/public_html/wp-content/plugins/wpgamelist/PHPExcel/Classes/PHPExcel/Writer/PDF/mPDF.php on line 30

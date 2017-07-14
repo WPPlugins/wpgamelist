@@ -1,0 +1,15 @@
+[21-Sep-2016 06:46:48 America/Denver] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/jakereva/public_html/wp-content/plugins/wpbooklist/PHPExcel/Classes/PHPExcel/Worksheet.php on line 37
+[21-Sep-2016 06:46:57 America/Denver] PHP Fatal error:  Class 'PHPExcel_Style_Supervisor' not found in /home/jakereva/public_html/wp-content/plugins/wpbooklist/PHPExcel/Classes/PHPExcel/Style.php on line 36
+[21-Sep-2016 06:47:15 America/Denver] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/jakereva/public_html/wp-content/plugins/wpbooklist/PHPExcel/Classes/PHPExcel/RichText.php on line 37
+[21-Sep-2016 06:48:25 America/Denver] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/jakereva/public_html/wp-content/plugins/wpbooklist/PHPExcel/Classes/PHPExcel/Comment.php on line 37
+[21-Sep-2016 06:49:04 America/Denver] PHP Fatal error:  Class 'PHPExcel_Shared_String' not found in /home/jakereva/public_html/wp-content/plugins/wpbooklist/PHPExcel/Classes/PHPExcel/Autoloader.php on line 36
+[29-Sep-2016 11:28:11 America/Denver] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/jakereva/public_html/wp-content/plugins/wpbooklist/PHPExcel/Classes/PHPExcel/Worksheet.php on line 37
+[30-Sep-2016 05:35:05 America/Denver] PHP Fatal error:  Class 'PHPExcel_Style_Supervisor' not found in /home/jakereva/public_html/wp-content/plugins/wpbooklist/PHPExcel/Classes/PHPExcel/Style.php on line 36
+[01-Oct-2016 17:14:35 America/Denver] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/jakereva/public_html/wp-content/plugins/wpbooklist/PHPExcel/Classes/PHPExcel/RichText.php on line 37
+[16-Dec-2016 05:38:18 America/Denver] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/jakereva/public_html/wp-content/plugins/wpgamelist/PHPExcel/Classes/PHPExcel/RichText.php on line 37
+[16-Dec-2016 17:20:32 America/Denver] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/jakereva/public_html/wp-content/plugins/wpgamelist/PHPExcel/Classes/PHPExcel/Worksheet.php on line 37
+[18-Dec-2016 04:36:15 America/Denver] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/jakereva/public_html/wp-content/plugins/wpgamelist/PHPExcel/Classes/PHPExcel/Comment.php on line 37
+[18-Dec-2016 04:36:37 America/Denver] PHP Fatal error:  Class 'PHPExcel_Shared_String' not found in /home/jakereva/public_html/wp-content/plugins/wpgamelist/PHPExcel/Classes/PHPExcel/Autoloader.php on line 36
+[18-Dec-2016 04:38:17 America/Denver] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/jakereva/public_html/wp-content/plugins/wpgamelist/PHPExcel/Classes/PHPExcel/Worksheet.php on line 37
+[18-Dec-2016 04:39:11 America/Denver] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/jakereva/public_html/wp-content/plugins/wpgamelist/PHPExcel/Classes/PHPExcel/RichText.php on line 37
+[18-Dec-2016 04:40:27 America/Denver] PHP Fatal error:  Class 'PHPExcel_Style_Supervisor' not found in /home/jakereva/public_html/wp-content/plugins/wpgamelist/PHPExcel/Classes/PHPExcel/Style.php on line 36

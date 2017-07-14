@@ -1,0 +1,3 @@
+[21-Sep-2016 13:22:42 America/Denver] PHP Fatal error:  Class 'PHPExcel_Exception' not found in /home/jakereva/public_html/wp-content/plugins/wpbooklist/PHPExcel/Classes/PHPExcel/Calculation/Exception.php on line 36
+[27-Sep-2016 10:58:35 America/Denver] PHP Fatal error:  Class 'PHPExcel_Exception' not found in /home/jakereva/public_html/wp-content/plugins/wpbooklist/PHPExcel/Classes/PHPExcel/Calculation/Exception.php on line 36
+[18-Dec-2016 04:44:08 America/Denver] PHP Fatal error:  Class 'PHPExcel_Exception' not found in /home/jakereva/public_html/wp-content/plugins/wpgamelist/PHPExcel/Classes/PHPExcel/Calculation/Exception.php on line 36

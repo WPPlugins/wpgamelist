@@ -1,0 +1,3 @@
+[21-Sep-2016 14:53:18 America/Denver] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/jakereva/public_html/wp-content/plugins/wpbooklist/PHPExcel/Classes/PHPExcel/Worksheet/Drawing/Shadow.php on line 37
+[01-Oct-2016 00:07:00 America/Denver] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/jakereva/public_html/wp-content/plugins/wpbooklist/PHPExcel/Classes/PHPExcel/Worksheet/Drawing/Shadow.php on line 37
+[18-Dec-2016 04:48:24 America/Denver] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/jakereva/public_html/wp-content/plugins/wpgamelist/PHPExcel/Classes/PHPExcel/Worksheet/Drawing/Shadow.php on line 37

@@ -1,0 +1,3 @@
+[22-Sep-2016 13:55:41 America/Denver] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/jakereva/public_html/wp-content/plugins/wpbooklist/PHPExcel/Classes/PHPExcel/Chart/Renderer/jpgraph.php on line 30
+[29-Sep-2016 23:14:08 America/Denver] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/jakereva/public_html/wp-content/plugins/wpbooklist/PHPExcel/Classes/PHPExcel/Chart/Renderer/jpgraph.php on line 30
+[18-Dec-2016 04:47:39 America/Denver] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/jakereva/public_html/wp-content/plugins/wpgamelist/PHPExcel/Classes/PHPExcel/Chart/Renderer/jpgraph.php on line 30

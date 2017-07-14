@@ -1,0 +1,2 @@
+[21-Sep-2016 13:22:21 America/Denver] PHP Fatal error:  Class 'PHPExcel_Shared_File' not found in /home/jakereva/public_html/wp-content/plugins/wpbooklist/PHPExcel/Classes/PHPExcel/Shared/ZipArchive.php on line 29
+[18-Dec-2016 04:41:42 America/Denver] PHP Fatal error:  Class 'PHPExcel_Shared_File' not found in /home/jakereva/public_html/wp-content/plugins/wpgamelist/PHPExcel/Classes/PHPExcel/Shared/ZipArchive.php on line 29

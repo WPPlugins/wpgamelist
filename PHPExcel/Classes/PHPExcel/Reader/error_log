@@ -1,0 +1,4 @@
+[21-Sep-2016 14:07:53 America/Denver] PHP Fatal error:  Class 'PHPExcel_Exception' not found in /home/jakereva/public_html/wp-content/plugins/wpbooklist/PHPExcel/Classes/PHPExcel/Reader/Exception.php on line 36
+[29-Sep-2016 01:25:27 America/Denver] PHP Fatal error:  Interface 'PHPExcel_Reader_IReader' not found in /home/jakereva/public_html/wp-content/plugins/wpbooklist/PHPExcel/Classes/PHPExcel/Reader/Abstract.php on line 37
+[18-Dec-2016 04:44:23 America/Denver] PHP Fatal error:  Interface 'PHPExcel_Reader_IReader' not found in /home/jakereva/public_html/wp-content/plugins/wpgamelist/PHPExcel/Classes/PHPExcel/Reader/Abstract.php on line 37
+[18-Dec-2016 04:45:05 America/Denver] PHP Fatal error:  Class 'PHPExcel_Exception' not found in /home/jakereva/public_html/wp-content/plugins/wpgamelist/PHPExcel/Classes/PHPExcel/Reader/Exception.php on line 36
